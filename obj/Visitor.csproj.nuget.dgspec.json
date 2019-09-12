@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/Projetos/Visitor/Visitor.csproj": {}
+    "/home/Projetos/visitor/Visitor.csproj": {}
   },
   "projects": {
-    "/home/Projetos/Visitor/Visitor.csproj": {
+    "/home/Projetos/visitor/Visitor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/Projetos/Visitor/Visitor.csproj",
+        "projectUniqueName": "/home/Projetos/visitor/Visitor.csproj",
         "projectName": "Visitor",
-        "projectPath": "/home/Projetos/Visitor/Visitor.csproj",
+        "projectPath": "/home/Projetos/visitor/Visitor.csproj",
         "packagesPath": "/home/efabrika/.nuget/packages/",
-        "outputPath": "/home/Projetos/Visitor/obj/",
+        "outputPath": "/home/Projetos/visitor/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"

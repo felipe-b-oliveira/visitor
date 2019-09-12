@@ -1,0 +1,11 @@
+/home/Projetos/visitor/bin/Debug/netcoreapp2.1/Visitor.deps.json
+/home/Projetos/visitor/bin/Debug/netcoreapp2.1/Visitor.runtimeconfig.json
+/home/Projetos/visitor/bin/Debug/netcoreapp2.1/Visitor.runtimeconfig.dev.json
+/home/Projetos/visitor/bin/Debug/netcoreapp2.1/Visitor.dll
+/home/Projetos/visitor/bin/Debug/netcoreapp2.1/Visitor.pdb
+/home/Projetos/visitor/obj/Debug/netcoreapp2.1/Visitor.csprojAssemblyReference.cache
+/home/Projetos/visitor/obj/Debug/netcoreapp2.1/Visitor.csproj.CoreCompileInputs.cache
+/home/Projetos/visitor/obj/Debug/netcoreapp2.1/Visitor.AssemblyInfoInputs.cache
+/home/Projetos/visitor/obj/Debug/netcoreapp2.1/Visitor.AssemblyInfo.cs
+/home/Projetos/visitor/obj/Debug/netcoreapp2.1/Visitor.dll
+/home/Projetos/visitor/obj/Debug/netcoreapp2.1/Visitor.pdb
